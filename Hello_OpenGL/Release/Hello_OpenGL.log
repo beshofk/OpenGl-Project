@@ -1,0 +1,11 @@
+﻿Build started 20-May-15 2:53:39 PM.
+     1>Project "C:\Users\JeSuS_SoN\documents\visual studio 2013\Projects\Hello_OpenGL\Hello_OpenGL\Hello_OpenGL.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt glm.c
+         glm.c
+     1>c:\users\jesus_son\documents\visual studio 2013\projects\hello_opengl\hello_opengl\glm.h(15): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+     1>Done Building Project "C:\Users\JeSuS_SoN\documents\visual studio 2013\Projects\Hello_OpenGL\Hello_OpenGL\Hello_OpenGL.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.28
